@@ -3,7 +3,7 @@
 Human preCRC cohort data analysis
 
 ## How to use?
-git clone https://github.com/zhaolianlu/SMALT-mouse.git
+git clone https://github.com/zhaolianlu/Homo-preCRC.git
 
 ## Citation
 
