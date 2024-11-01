@@ -1,13 +1,13 @@
-# Homo-preCRC  - Systematic lineage tracing reveals multi- to uni-ancestral transition in colorectal precancer.
+# Polyclonal-to-monoclonal transition in colorectal precancerous evolution
 
-Human preCRC cohort data analysis
+Human polyp-CRC cohort data analysis
 
 ## How to use?
 git clone https://github.com/zhaolianlu/Homo-preCRC.git
 
 ## Citation
 
-Zhaolian Lu#, Shanlan Mo#, Duo Xie#, Xiangwei Zhai#, Shanjun Deng#, Kantian Zhou, Kun Wang, Xueling Kang, Hao Zhang, Juanzhen Tong, Liangzhen Hou, Huijuan Hu, Xuefei Li, Da Zhou, Leo Tsz On Lee, Li Liu, Yaxi Zhu, Jing Yu, Ping Lan, Jiguang Wang, Zhen He*, Xionglei He*, Zheng Hu*. Systematic lineage tracing reveals multi- to uni-ancestral transition in colorectal precancer.
+Lu, Z., Mo, S., Xie, D. et al. Polyclonal-to-monoclonal transition in colorectal precancerous evolution. Nature (2024). https://doi.org/10.1038/s41586-024-08133-1
 
 ## License
 Free Software: MIT License
